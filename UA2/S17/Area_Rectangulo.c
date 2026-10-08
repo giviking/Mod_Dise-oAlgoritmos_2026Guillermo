@@ -14,8 +14,7 @@ int main(void) {
     printf("Digite la alura del rectangulo (cm) :");
     scanf("%lf", &altura);
 
-    //Proceso: multiplica y guarda el resultado = 15
-    
+    //Proceso: multiplica y guarda el resultado = 15    
 
     area = base * altura;
 
