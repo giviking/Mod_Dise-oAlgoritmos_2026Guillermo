@@ -20,6 +20,19 @@ int main(void) {
     //SALIDA: %2.f muestra 2 decimales y %s muestra la cadena UNIDAD
     printf("Area: %.2f %s2\n", area, UNIDAD);
     printf("Perimetro: %.2f %s\n", perimetro, UNIDAD);
+
+    printf(" -------------------------    \n");
+    printf("<Aqui va el mensaje a mostrar> \n");
+    printf(" -------------------------\n");
+    printf("    \\   ^__^                  \n");
+    printf("     \\  (@#)\\_______  \n");
+    printf("         (__) \\       )\\/\\   \n");
+    printf("               ||----w |    \n");
+    printf("               ||     ||    \n");
+
+
+
+
     return 0;
 
 }
