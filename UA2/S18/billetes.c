@@ -10,7 +10,7 @@ int main(void) {
     scanf("%d", &monto);
 
     //PROCESOS: division entera 47500 / 20000 -> cantidad = 2
-    cantidad = resto / 20000;
+    cantidad = monto / 20000;  //cambiamos resto por monto
 
     //% es el residuo: 475000 % 20000 -> resto = 7500
     resto = resto % 20000;
