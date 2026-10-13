@@ -27,6 +27,7 @@ int main(void) {
 
     promedio = suma / cantidad;
 
+    //Salida de la informacion por pantalla
     printf("Suma: %.2f\n", suma);
     printf("Promedio: %.2f\n", promedio);
 
