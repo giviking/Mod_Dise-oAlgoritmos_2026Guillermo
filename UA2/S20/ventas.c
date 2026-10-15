@@ -46,7 +46,7 @@ int main(void) {
     }
     //Recorrido por columnas. El for externo recorre los dias
     printf("%-8s", "Dia");
-    for (d = 0; d > DIAS; d++) {
+    for (d = 0; d < DIAS; d++) {
         totalDia = 0;
         for (s = 0; s < SUC; s++) {
             totalDia += ventas [s] [d];
@@ -56,7 +56,7 @@ int main(void) {
     printf("\n");
     //SALIDAS: Sucursal con mas ventas
     printf("Sucursal con mas ventas: %s (%d)\n", mejor, mayor);
-    
+
     system("pause");
     return 0; 
 }

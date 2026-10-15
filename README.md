@@ -114,7 +114,7 @@ Las capturas de pantalla van en la subcarpeta `capturas/` de cada sesión
 |   S17   | Variables, constantes y entrada/salida       | Se estudia la declaracion e inicializacion de variables |            [ver](UA2/S17/s17.png)            |   ⬜   |
 |   S18   | Operadores, casting e if … else              | Capté el casteo y las estructuras de control if - else  |            [ver](UA2/S18/s18.png)            |   ⬜   |
 |   S19   | Ciclos y switch                              | Aprendi sobre ciclo while, do while y switch            |            [ver](UA2/S19/s19.png)            |   ⬜   |
-|   S20   | Arreglos, matrices y cadenas                 |                                                         |               [ver](UA2/S20/)                |   ⬜   |
+|   S20   | Arreglos, matrices y cadenas                 | Aprendi sobre matrices y vectores                       |            [ver](UA2/S20/s20.png)            |   ⬜   |
 |   S21   | Funciones                                    |                                                         |               [ver](UA2/S21/)                |   ⬜   |
 |   S22   | Paso de parámetros por valor y por dirección |                                                         |               [ver](UA2/S22/)                |   ⬜   |
 | S23–S24 | **Actividad de comprobación 2**              |                                                         | [ver](actividades/A2_Mi_primera_aplicacion/) |   ⬜   |
