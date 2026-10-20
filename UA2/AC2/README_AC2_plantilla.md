@@ -12,7 +12,7 @@
 
 **Ejecución con los datos del ejemplo:**
 
-![Ejecución](UA2/AC2/P1Nomina.png)
+[ver](UA2/AC2/P1Nomina.png)
 
 ## Problema 2 · Calificaciones (AC2_P2_Calificaciones.c)
 
