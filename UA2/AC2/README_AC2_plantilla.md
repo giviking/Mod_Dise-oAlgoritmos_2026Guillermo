@@ -3,7 +3,7 @@
 **Estudiante:** (Guillermo Godinez Chacon)  
 **Fecha:** 20/10/2026  
 **Módulo:** CSTI12010 Diseño de algoritmos · UA2
-**Problemas a Calificar: ** Problemas 1 y 2.
+
 
 ## Problema 1 · Nómina (AC2_P1_Nomina.c)
 
