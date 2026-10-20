@@ -22,7 +22,7 @@
 
 **Ejecución con los datos del ejemplo:**
 
-![Ejecución](captura_p.png)
+![Ejecución](P1Nomina.png)
 
 ## Problema 3 · Compras (AC2_P3_Compras.c)
 
