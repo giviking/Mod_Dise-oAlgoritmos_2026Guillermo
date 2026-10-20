@@ -16,13 +16,13 @@
 
 ## Problema 2 · Calificaciones (AC2_P2_Calificaciones.c)
 
-| Datos de entrada | Proceso | Datos de salida | Limitaciones |
-| ---------------- | ------- | --------------- | ------------ |
-|                  |         |                 |              |
+| Datos de entrada      | Proceso                                                                                                             | Datos de salida                                        | Limitaciones                               |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------ |
+| Juan Perez - 75-82-68 | Con el nombre y las 3 notas brindadas se hacen los calculos respectivos para determinar la condicion del estudiante | Nombre del estudiante-Promedio-Nota mas alta-Condicion | El digitador puede ingresar datos erroneos |
 
 **Ejecución con los datos del ejemplo:**
 
-![Ejecución](P1Nomina.png)
+![Ejecución](P2Calificaciones.png)
 
 ## Problema 3 · Compras (AC2_P3_Compras.c)
 
@@ -32,7 +32,7 @@
 
 **Ejecución con los datos del ejemplo:**
 
-![Ejecución](captura_p.png)
+![Ejecución](P2Calificaciones.png)
 
 ## Conclusión
 
