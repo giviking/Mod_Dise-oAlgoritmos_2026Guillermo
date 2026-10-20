@@ -1,8 +1,9 @@
 # AC2 · Mi primera aplicación en C
 
-**Estudiante:** (nombre completo)  
+**Estudiante:** (Guillermo Godinez Chacon)  
 **Fecha:** 20/10/2026  
 **Módulo:** CSTI12010 Diseño de algoritmos · UA2
+**Problemas a Calificar: ** Problemas 1 y 2.
 
 ## Problema 1 · Nómina (AC2_P1_Nomina.c)
 
@@ -26,14 +27,14 @@
 
 ## Problema 3 · Compras (AC2_P3_Compras.c)
 
-| Datos de entrada | Proceso | Datos de salida | Limitaciones |
-| ---------------- | ------- | --------------- | ------------ |
-|                  |         |                 |              |
+| Datos de entrada                                    | Proceso                                                                                                                                                                                                                | Datos de salida                                                                                                        | Limitaciones                                 |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| Nombre del Cliente, productos, cantidades y precios | Con la informacion solicitada en los datos de entrada se hacen los calculos correspondientes: Nombres de los productos, cantidades, precios tanto totales como a pagar y los descuentos y se presentan en una factura. | Una factura que muestra: Nombre del cliente, productos, cantidades, subtotal, descuentos, impuestos y el total a pagar | El dependiente puede ingresar datos erroneos |
 
 **Ejecución con los datos del ejemplo:**
 
-![Ejecución](P2Calificaciones.png)
+![Ejecución](P3Compras.png)
 
 ## Conclusión
 
-(Qué aprendí y qué fue lo más difícil de pasar de PSeInt a C.)
+Excelentes ejercicios de evaluacion que me emplearon a fondo.
