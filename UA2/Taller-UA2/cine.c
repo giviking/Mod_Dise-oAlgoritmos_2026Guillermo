@@ -2,9 +2,9 @@
 #include <stdio.h>
 //definir constantes
 #define MAX_COMPRAS 10
-#define PRECIO_GENERAL 3500
-#define PRECIO_NINO 2500
-#define PRECIO_MAYOR 2000
+#define PRECIO_GENERAL 3500.0
+#define PRECIO_NINO 2500.0
+#define PRECIO_MAYOR 2000.0
 #define MIN_DESCUENTO 5
 #define TAZA_DESCUENTO 0.10
 
@@ -52,7 +52,7 @@ resumir(cantidades, totales, n, &totalVendido, &posMayor, &conDescuento);
 
 //encabezado de la tabla
 
-printf("\n%-12s%9d%12.2f\n", clientes[i], cantidades[i], totales[i]);
+printf("\n%-12s%9s%12.2s\n", "cliente", "entradas", "totales");  //modificacion profe
 //recorrer las compras
 for (i = 0; i < n; i++) {
 //mostrar fila
